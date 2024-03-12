@@ -1,4 +1,4 @@
-# FacebookAutoLoggerPython
+# FacebookAutoLoginPython
 Pre-requisites for executing these file is 4.
 
 1.Python programming language
